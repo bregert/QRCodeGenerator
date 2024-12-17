@@ -1,2 +1,2 @@
 QR Code Generator
-Use Pycharm
+-----> Use Pycharm
